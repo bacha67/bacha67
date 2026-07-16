@@ -62,14 +62,6 @@
 
 ---
 
-### 🏆 GitHub Achievements:
-
-![YOLO](https://img.shields.io/badge/YOLO-Merged%20without%20review-FFD700?style=for-the-badge&logo=github&logoColor=black)
-![Quickdraw](https://img.shields.io/badge/Quickdraw-Gitty%20up!-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Merged%203%2B%20PRs-4DABCF?style=for-the-badge&logo=github&logoColor=white)
-
----
-
 <div align="center">
 
 💼 **System Administrator** · Starting Soon · Ethiopia 🇪🇹
