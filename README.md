@@ -43,7 +43,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bacha67&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c6ef5&text_color=e8e8f0)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bacha67&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=7c6ef5&ring=7c6ef5&fire=a89cf5&currStreakLabel=7c6ef5)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bacha67&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=7c6ef5&ring=7c6ef5&fire=a89cf5&currStreakLabel=7c6ef5)
 
 </div>
 
@@ -55,9 +55,9 @@
 |---|---|---|
 | [AI Resume Analyzer](https://github.com/bacha67/Ai-resume-Analyzer) | Serverless AI app that parses PDF resumes and returns ATS scores + feedback using GPT-4o-mini vision | React 19, TypeScript, Puter.js, PDF.js |
 | [Subtrack API](https://github.com/bacha67/subtrack-api) | Production-ready subscription management REST API with JWT auth, rate limiting, and automated email workflows | Node.js, Express, MongoDB, Arcjet, Upstash |
-| [Classroom Management System](https://github.com/bacha67) | Full-stack PERN CRUD platform with role-based access control | React, Node.js, PostgreSQL, JWT |
-| [Smart Attendance System](https://github.com/bacha67) | Face-recognition attendance system using OpenCV & CNN | Python, OpenCV, Flask, CNN |
-| [Handwritten Digit Recognition](https://github.com/bacha67) | Neural network pipeline for digit classification | Python, TensorFlow, NumPy |
+| [Classroom Management System](https://github.com/bacha67/classroom-frontend) | Full-stack PERN CRUD platform with role-based access control ([backend repo](https://github.com/bacha67/classroom-backend)) | React, Node.js, PostgreSQL, JWT |
+| [Smart Attendance System](https://github.com/bacha67/Smart-Attendance-updated) | Face-recognition attendance system using OpenCV & CNN | Python, OpenCV, Flask, CNN |
+| [Handwritten Digit Recognition](https://github.com/bacha67/Hand_written_digit_recognition) | Neural network pipeline for digit classification | Python, TensorFlow, NumPy |
 | [Ethio Fresh Jobs Bot](https://github.com/bacha67/job-search-dashboard-) | AI-powered Telegram job filtering bot with Groq/Llama 3.3 | Node.js, Groq API, GitHub Actions |
 
 ---
